@@ -1,0 +1,88 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black');
+
+
+.red {
+  color: red;
+  font-family: "Archivo Black";
+  font-size:  26px;
+}
+
+.red2 {
+  color: red;
+  font-size:  26px;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  font-size: 19px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  color: red;
+  text-decoration: none;
+}
+
+img {
+  float: left;
+  padding: 14px 135px;
+  display: block;
+}
+
+.apply {
+  padding: 14px 157px;
+  font-size: 14px;
+  text-decoration: none;
+  color: black;
+}
+
+.apply2 {
+  padding: 14px 156px;
+  font-size: 14px;
+  text-decoration: none;
+  color: black;
+}
+
+.apply2:hover {
+  text-decoration: none;
+  color: red;
+}
+
+.apply:hover {
+  text-decoration: none;
+  color: red;
+}
+
+footer {
+  background-color: red;
+  height: 205px;
+}
+
+.eme {
+  text-align: center;
+  color: white;
+  padding: 74px 0px;
+}
+
+.login {
+  padding: 55px 430px;
+}
