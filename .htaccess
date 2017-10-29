@@ -1,0 +1,6 @@
+RewriteEngine on
+
+RewriteRule ^custom index.html [NC,L]
+
+
+RewriteRule ^custom index1.html [NC,L]
