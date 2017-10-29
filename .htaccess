@@ -4,3 +4,5 @@ RewriteRule ^custom index.html [NC,L]
 
 
 RewriteRule ^custom index1.html [NC,L]
+
+RewriteRule ^custom index2.html [NC,L]
